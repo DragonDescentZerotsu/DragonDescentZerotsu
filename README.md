@@ -3,10 +3,10 @@
 Here in my repositories are code for my papers, courses with high score and competetions  
 Hope you find them helpful ! 😘  
 
-1. My paper *Self Sampling Meta SAM: Enhancing Few-shot Medical Image Segmentation with Meta-Learning* is accepted for WACV 2024! 🥳🤩
+1. My paper **Self Sampling Meta SAM: Enhancing Few-shot Medical Image Segmentation with Meta-Learning** is accepted for WACV 2024! 🥳🤩
 2. Built a SSH version of AlphaFold docker, if you can only stay in docker images on some AI GPU clusters, without rights to access Linux OS directly, this is a great resolution for you!
-3. If you are attending *Wolrd Robot Contest - BCI Controlled Robot Contest* in MI track, [here](https://github.com/DragonDescentZerotsu/BCI-contest) is some code for you to refer to. 😎
-4. For students in Professor Wu's class, *人机交互技术*, doing SSVEP project, [here](https://github.com/DragonDescentZerotsu/SSVEP) is the version that scores 97 🥳
+3. If you are attending **Wolrd Robot Contest - BCI Controlled Robot Contest** in MI track, [here](https://github.com/DragonDescentZerotsu/BCI-contest) is some code for you to refer to. 😎
+4. For students in Professor Wu's class, *Huamn-Computer Interactions*, doing **SSVEP** project, [here](https://github.com/DragonDescentZerotsu/SSVEP) is the version that scores 97 🥳
 <!--
 **DragonDescentZerotsu/DragonDescentZerotsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
