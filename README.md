@@ -1,4 +1,4 @@
-### Holle dear visitor 👋
+### Hello dear visitor 👋
 
 Here in my repositories are code for my papers, courses with high score and competetions  
 Hope you find them helpful ! 😘  
